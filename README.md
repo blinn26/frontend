@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">project-name-frontend</h1>
 
 <p align="center">
@@ -22,3 +23,6 @@
   <a href="https://createdbybenlinn.com" title="My Website and About Me">Creadtedbybenlinn.com</a> •
   <a href="" title=""></a> •                                                                  
 </p>
+=======
+# frontend
+>>>>>>> 8ebbbb79520b3f5de54dedcce88a32ceda1e1871
