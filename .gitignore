@@ -1,0 +1,36 @@
+# Dependencies
+/node_modules
+
+# Build outputs
+/build
+/dist
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Ignore specific directories outside the project
+../blinn26/
+../crwn-clothing-v2-main/
+../fireship-code/
+../git-branches/
+../monsters-rolodex/
+../myapp/
+../nextjs-course/
+../practicum/
+../project-name-frontend/
+../se_project_aroundtheus_clone/
+../se_project_coffeeshop/
+../se_project_react-main-clone/
+../test-1/
+../username_pass/
+../ample-admin-lite-master/
+../llama3_1/
+../se_project_library-main/
+
+
